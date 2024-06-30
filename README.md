@@ -1,4 +1,4 @@
-# Newsflash
+# NewsFlash
 
 Newsflash is an innovative website that aggregates the top news headlines from various categories, providing users with a streamlined way to stay informed about the latest happenings around the world. Whether you're interested in technology, sports, business, or entertainment, Newsflash has got you covered with real-time updates and a user-friendly interface.
 
